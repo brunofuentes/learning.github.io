@@ -1,3 +1,14 @@
+###Chapter 1.
+
+2021.01.16
+
+I don't really know what to write here. Just testing its functions and getting used to the github environment.
+Stay Hungry. Stay Foolish.
+
+Cheers,
+B.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/brunofuentes/learning.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
